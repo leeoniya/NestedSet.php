@@ -1,0 +1,3 @@
+[submodule "dump_r"]
+	path = dump_r
+	url = git@github.com:leeoniya/dump_r.php.git
